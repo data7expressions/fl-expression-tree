@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 https://www.youtube.com/watch?v=mbYCOjEtjF4
+
+
+# Init
+run
+```
+flutter pub get
+flutter pub run build_runner build
+```
